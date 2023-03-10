@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.c2a6cfaf.css",
+    "main.js": "/react-project/static/js/main.c394fbf8.js",
+    "static/js/787.a2bf511c.chunk.js": "/react-project/static/js/787.a2bf511c.chunk.js",
+    "static/media/SEGA.woff": "/react-project/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-project/index.html",
+    "main.c2a6cfaf.css.map": "/react-project/static/css/main.c2a6cfaf.css.map",
+    "main.c394fbf8.js.map": "/react-project/static/js/main.c394fbf8.js.map",
+    "787.a2bf511c.chunk.js.map": "/react-project/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a6cfaf.css",
+    "static/js/main.c394fbf8.js"
+  ]
+}
